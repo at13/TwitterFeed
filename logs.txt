@@ -1,0 +1,101 @@
+2016-11-13T11:46:13.853046+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.854524+00:00 app[myworker.1]: In a boost to #startups in #Jharkhand, state govt to soon set up 'Jharkhand Innovation Lab' with @IIMAhmedabad's as… https://t.co/APqersfmdL
+2016-11-13T11:46:13.857614+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.857614+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.859124+00:00 app[myworker.1]: #Startupindia! Download the #official app &amp; get all the information &amp; facilities of the initiative on the go https://t.co/5hCUMlvhYr
+2016-11-13T11:46:13.862196+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.862196+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.863653+00:00 app[myworker.1]: #startupindia yaya
+2016-11-13T11:46:13.866761+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.866761+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.871326+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.868220+00:00 app[myworker.1]: RT @24_7RT: Govt taking its ambitious #startupindia campaign to campuses across India;specialised course on #startups by AICTE https://t.co…
+2016-11-13T11:46:13.871327+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.872791+00:00 app[myworker.1]: It is your daily habits &amp; routine that makes a difference. #entrepreneur #startup #success #startupindia… https://t.co/lB4JKzzACp
+2016-11-13T11:46:13.875855+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.875855+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.877328+00:00 app[myworker.1]: https://t.co/kGhXxFhIHq
+2016-11-13T11:46:13.877329+00:00 app[myworker.1]: #Startups #Startup #Startuplife #Startupchallenge #StartupIndia
+2016-11-13T11:46:13.880444+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.880444+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.881960+00:00 app[myworker.1]: RT @startupindia: Good news for #startups: 36 new funds worth $1.65 bn to begin shopping soon https://t.co/zDFxXSClJE #StartupIndia
+2016-11-13T11:46:13.885046+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.885046+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.886500+00:00 app[myworker.1]: RT @vevekin: Another high profile exit from Flipkart; CFO Sanjay Baweja resigns #startupindia #startups #entrepreneur #startup https://t.co…
+2016-11-13T11:46:13.889587+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.889588+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.891049+00:00 app[myworker.1]: RT @Jheel333: #DiscoveryDay #MeetUpToStartUp #MeetUpInBengaluru #marketing influencer #social marketing #startupindia #in #hr https://t.co/…
+2016-11-13T11:46:13.894130+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.894131+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.895589+00:00 app[myworker.1]: RT @Poulastya: Govt taking its ambitious #startupindia campaign to campuses across India;specialised course on #startups by AICTE https://t…
+2016-11-13T11:46:13.900175+00:00 app[myworker.1]: RT @24_7RT: Govt taking its ambitious #startupindia campaign to campuses across India;specialised course on #startups by AICTE https://t.co…
+2016-11-13T11:46:13.898722+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.898723+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.903230+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.903230+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.904684+00:00 app[myworker.1]: RT @vevekin: Another high profile exit from Flipkart; CFO Sanjay Baweja resigns #startupindia #startups #entrepreneur #startup https://t.co…
+2016-11-13T11:46:13.907770+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.909230+00:00 app[myworker.1]: Another high profile exit from Flipkart; CFO Sanjay Baweja resigns #startupindia #startups #entrepreneur #startup https://t.co/sDUjjUjhdT
+2016-11-13T11:46:13.907770+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.912272+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.916766+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.912273+00:00 app[myworker.1]: None
+2016-11-13T11:46:13.913715+00:00 app[myworker.1]: Govt taking its ambitious #startupindia campaign to campuses across India;specialised course on #startups by AICTE https://t.co/T80UFGd1jL
+2016-11-13T11:46:13.916766+00:00 app[myworker.1]: trying to reenter
+2016-11-13T11:46:13.906035+00:00 heroku[myworker.1]: Restarting
+2016-11-13T11:46:13.906571+00:00 heroku[myworker.1]: State changed from up to starting
+2016-11-13T11:46:13.953307+00:00 heroku[web.1]: Restarting
+2016-11-13T11:46:13.953947+00:00 heroku[web.1]: State changed from up to starting
+2016-11-13T11:46:14.766612+00:00 heroku[myworker.1]: Stopping all processes with SIGTERM
+2016-11-13T11:46:14.956838+00:00 heroku[myworker.1]: Process exited with status 143
+2016-11-13T11:46:16.735817+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2016-11-13T11:46:17.407612+00:00 app[web.1]: [2016-11-13 11:46:17 +0000] [11] [INFO] Worker exiting (pid: 11)
+2016-11-13T11:46:17.407752+00:00 app[web.1]: [2016-11-13 11:46:17 +0000] [10] [INFO] Worker exiting (pid: 10)
+2016-11-13T11:46:17.407764+00:00 app[web.1]: [2016-11-13 11:46:17 +0000] [4] [INFO] Handling signal: term
+2016-11-13T11:46:17.454809+00:00 app[web.1]: [2016-11-13 11:46:17 +0000] [4] [INFO] Shutting down: Master
+2016-11-13T11:46:17.563045+00:00 heroku[web.1]: Process exited with status 0
+2016-11-13T11:46:23.308952+00:00 heroku[web.1]: Starting process with command `gunicorn view:app --log-file -`
+2016-11-13T11:46:26.194347+00:00 app[web.1]: [2016-11-13 11:46:26 +0000] [4] [INFO] Starting gunicorn 19.4.5
+2016-11-13T11:46:26.215195+00:00 app[web.1]: [2016-11-13 11:46:26 +0000] [4] [INFO] Using worker: sync
+2016-11-13T11:46:26.194949+00:00 app[web.1]: [2016-11-13 11:46:26 +0000] [4] [INFO] Listening at: http://0.0.0.0:23959 (4)
+2016-11-13T11:46:26.226113+00:00 app[web.1]: [2016-11-13 11:46:26 +0000] [10] [INFO] Booting worker with pid: 10
+2016-11-13T11:46:26.257164+00:00 app[web.1]: [2016-11-13 11:46:26 +0000] [11] [INFO] Booting worker with pid: 11
+2016-11-13T11:46:26.353409+00:00 heroku[myworker.1]: Starting process with command `python fetch.py`
+2016-11-13T11:46:27.017789+00:00 heroku[web.1]: State changed from starting to up
+2016-11-13T11:46:26.924891+00:00 heroku[myworker.1]: State changed from starting to up
+2016-11-13T11:46:27.667831+00:00 app[web.1]: /app/.heroku/python/lib/python2.7/site-packages/flask_sqlalchemy/__init__.py:800: UserWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.
+2016-11-13T11:46:27.667845+00:00 app[web.1]:   warnings.warn('SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.')
+2016-11-13T11:46:27.668091+00:00 app[web.1]: /app/.heroku/python/lib/python2.7/site-packages/flask_sqlalchemy/__init__.py:800: UserWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.
+2016-11-13T11:46:27.668093+00:00 app[web.1]:   warnings.warn('SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.')
+2016-11-13T11:46:29.573923+00:00 app[myworker.1]: xxxxxxxxx
+2016-11-13T11:46:29.839952+00:00 app[myworker.1]: Good news for #startups: 36 new funds worth $1.65 bn to begin shopping soon https://t.co/zDFxXSClJE #StartupIndia
+2016-11-13T11:46:29.840912+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.863641+00:00 app[myworker.1]: In a boost to #startups in #Jharkhand, state govt to soon set up 'Jharkhand Innovation Lab' with @IIMAhmedabad's as… https://t.co/APqersfmdL
+2016-11-13T11:46:29.871493+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.895104+00:00 app[myworker.1]: #Startupindia! Download the #official app &amp; get all the information &amp; facilities of the initiative on the go https://t.co/5hCUMlvhYr
+2016-11-13T11:46:29.895110+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.895112+00:00 app[myworker.1]: #startupindia yaya
+2016-11-13T11:46:29.895112+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.895113+00:00 app[myworker.1]: RT @24_7RT: Govt taking its ambitious #startupindia campaign to campuses across India;specialised course on #startups by AICTE https://t.co…
+2016-11-13T11:46:29.895114+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.895114+00:00 app[myworker.1]: It is your daily habits &amp; routine that makes a difference. #entrepreneur #startup #success #startupindia… https://t.co/lB4JKzzACp
+2016-11-13T11:46:29.895115+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.895115+00:00 app[myworker.1]: https://t.co/kGhXxFhIHq
+2016-11-13T11:46:29.895116+00:00 app[myworker.1]: #Startups #Startup #Startuplife #Startupchallenge #StartupIndia
+2016-11-13T11:46:29.899086+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.899087+00:00 app[myworker.1]: RT @startupindia: Good news for #startups: 36 new funds worth $1.65 bn to begin shopping soon https://t.co/zDFxXSClJE #StartupIndia
+2016-11-13T11:46:29.899088+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.905094+00:00 app[myworker.1]: RT @vevekin: Another high profile exit from Flipkart; CFO Sanjay Baweja resigns #startupindia #startups #entrepreneur #startup https://t.co…
+2016-11-13T11:46:29.911087+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.911089+00:00 app[myworker.1]: RT @Jheel333: #DiscoveryDay #MeetUpToStartUp #MeetUpInBengaluru #marketing influencer #social marketing #startupindia #in #hr https://t.co/…
+2016-11-13T11:46:29.915084+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.919095+00:00 app[myworker.1]: RT @Poulastya: Govt taking its ambitious #startupindia campaign to campuses across India;specialised course on #startups by AICTE https://t…
+2016-11-13T11:46:29.919097+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.927082+00:00 app[myworker.1]: RT @24_7RT: Govt taking its ambitious #startupindia campaign to campuses across India;specialised course on #startups by AICTE https://t.co…
+2016-11-13T11:46:29.931083+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.931085+00:00 app[myworker.1]: RT @vevekin: Another high profile exit from Flipkart; CFO Sanjay Baweja resigns #startupindia #startups #entrepreneur #startup https://t.co…
+2016-11-13T11:46:29.935084+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.943087+00:00 app[myworker.1]: None
+2016-11-13T11:46:29.939083+00:00 app[myworker.1]: Another high profile exit from Flipkart; CFO Sanjay Baweja resigns #startupindia #startups #entrepreneur #startup https://t.co/sDUjjUjhdT
+2016-11-13T11:46:29.943089+00:00 app[myworker.1]: Govt taking its ambitious #startupindia campaign to campuses across India;specialised course on #startups by AICTE https://t.co/T80UFGd1jL
+2016-11-13T11:46:29.947086+00:00 app[myworker.1]: None
